@@ -1,2 +1,3 @@
-# haskell_irc
-irc bot written in haskell
+# Haskell IRC
+
+## A simple IRC bot written in Haskell
